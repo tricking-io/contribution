@@ -1,6 +1,6 @@
 # 梧桐百科投稿指南
 
-梧桐百科是一个碎片化安全知识学习平台，我们将细小的知识点（tricks）写入卡片，以卡片的形式让学习者对知识的认识程度更加深刻。
+[梧桐百科][2]是一个碎片化安全知识学习平台，我们将细小的知识点（tricks）写入卡片，以卡片的形式让学习者对知识的认识程度更加深刻。
 
 我们接受用户投稿，大家可以把自己觉得优秀的碎片化知识发送给我们：[投稿地址][1]。
 
@@ -51,8 +51,6 @@ Markdown语法请阅读：[https://guides.github.com/features/mastering-markdown
 2. 自动识别链接
 3. 粘贴上传图片
 
-因为前台投稿页面没有Markdown编辑器，也没有自动保存功能。所以建议投稿者在本地Markdown编辑器中写好内容，然后再投稿。
-
 ### 代码
 
 代码的目的是：**给出一段代码（或伪代码），因为这段代码中的错误，即可导致这个trick。**
@@ -72,3 +70,4 @@ echo $data;
 当然，某些trick无法用一段简单的代码复现，所以也可以留空。
 
 [1]: https://github.com/tricking-io/contribution/issues/new?template=trick--.md
+[2]: https://tricking.io/
